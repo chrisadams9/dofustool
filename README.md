@@ -6,7 +6,7 @@ This is a tool I am developing for Dofus players to get instant help with differ
 There is a map for the main Ankama continent along with 5 divine dimensions. You can choose the map to explore from the top of the page.
 
 ### Hunt
-On the hunt page, you can find next hints by entering the current position and hint direction. Pretty simple to use.
+On the hunt page, you can find next hints by entering the current position and hint direction. The tool will automatically fetch the hints and give the position to move to next hint on the map. Pretty simple to use. 
 
 ### Skins
 There is a vast collection of skins from all the classes of Dofus. Just click on the skin and you'll see the codes for the skin elements. Copy and paste the code in the game to have the skin for your character.
