@@ -3,7 +3,7 @@
 This is a tool I am developing for Dofus players to get instant help with different maps, hunts, skins, and more. I am planning to add more items to the Dofus map. In addition to that, soon there will be more hints on the treasure hunt page.
 
 ### Map
-There is a map for the main Ankama continent along with 5 divine dimensions. You can choose the map to explore from the top of the page.
+There is a map for the main Ankama continent along with 5 divine dimensions. You can choose the map to explore from the top of the page. Each showcases various portals, resources and dungeons that can help you find stuff and complete your quests.
 
 ### Hunt
 On the hunt page, you can find next hints by entering the current position and hint direction. The tool will automatically fetch the hints and give the position to move to next hint on the map. Pretty simple to use. 
